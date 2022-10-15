@@ -1,6 +1,6 @@
-# CoderDojo Gorey Python Tutroials
+# CoderDojo Gorey Python Tutorials
 
-## This Contains all the lessons over my time of mentoring at coderdogo Gorey
+## This Contains all the lessons over my time of mentoring at coderdojo Gorey
 
 ### Index:
 
@@ -8,4 +8,7 @@
 - variables in python and displaying text in VS Code in a jupyter notebook, as well as input
 
 #### Week 2: 
-- TBD
+- Putting code into functions
+
+#### Week 3: 
+- Looping through lists and tuples and an introduction into datetime
