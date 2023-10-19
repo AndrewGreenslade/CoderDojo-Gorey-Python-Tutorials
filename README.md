@@ -35,3 +35,6 @@
 
 - Week 1:
     - Generating QR codes from temrinal, as well as generating QR codes with python! we also learn how to change the colors of the QR code, using color keywords and rgb values, we also invert a QR code from its default color scheme!
+
+- Week 2 and 3:
+    - Revising the basics of python with variables and the different types!
